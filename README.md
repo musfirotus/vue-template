@@ -4,8 +4,8 @@
 - [x] Vue Router
 - [x] Vuex
 - [x] Tailwindcss
-- [ ] Axios
-- [ ] Nprogress
+- [x] Axios
+- [x] Nprogress
 
 
 ## vscode config for tailwind
@@ -19,7 +19,7 @@
     "css.validate": false,
     ```
 
-## Tailwindcss Intall
+## Tailwindcss Install
 1. Install Tailwindcss
     ```
     npm install tailwindcss
